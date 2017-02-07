@@ -53,15 +53,12 @@ float ClosedCube_Si7051::readT() {
 float ClosedCube_Si7051::readTemperature() {
 	Wire.beginTransmission(_address);
 	Wire.write(0xF3);
-	Wire.write(_address);
-	Wire.write(_address);
-	Wire.write(_address);
 	Wire.endTransmission();
 
 	delay(10);
 
 	Wire.requestFrom(_address, (uint8_t)2);
-
+	
 	byte msb = Wire.read();
 	byte lsb = Wire.read();
 
