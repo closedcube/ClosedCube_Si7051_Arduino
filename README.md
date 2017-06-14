@@ -9,8 +9,19 @@ This is breakout board for [Silicon Labs Si7051](http://www.silabs.com/products/
 [![](https://github.com/closedcube/ClosedCube_Si7051_Arduino/blob/master/images/B001_SI7051_Pic2.jpg)](https://www.tindie.com/stores/closedcube/)
 
 
-
+----------
 ### Where to Buy?
 
-<a href="https://www.tindie.com/stores/closedcube/?ref=offsite_badges&utm_source=sellers_closedcube&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+[![](http://images.closedcube.uk/logo/github/amazon.png)](https://www.tindie.com/stores/closedcube/)
+
+- [Amazon UK](https://www.amazon.co.uk/dp/B01MY4BG6H) 
+- [Amazon DE](https://www.amazon.de/dp/B01MY4BG6H)
+- [Amazon FR](https://www.amazon.fr/dp/B01MY4BG6H)
+- [Amazon IT](https://www.amazon.it/dp/B01MY4BG6H)
+- [Amazon ES](https://www.amazon.es/dp/B01MY4BG6H)
+
+
+[![](http://images.closedcube.uk/logo/github/tindie.png)](https://www.tindie.com/stores/closedcube/)
+
+
 
