@@ -1,5 +1,4 @@
 /**************************************************************************************
-
 This is example for ClosedCube Si7051 ±0.1°C Digital Temperature Sensor breakout board
 
 Initial Date: 15-May-2016
@@ -13,7 +12,6 @@ Hardware connections for Arduino Uno:
 Written by AA for ClosedCube
 
 MIT License
-
 **************************************************************************************/
 
 #include <Wire.h>
