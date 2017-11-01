@@ -24,7 +24,7 @@ void setup()
 	Serial.begin(9600);
 	Serial.println("ClosedCube Si7051 Arduino Test");
 
-	si7051.begin(0x40);	
+	si7051.begin(0x40); // default I2C address is 0x40
 }
 
 void loop()
