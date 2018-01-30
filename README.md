@@ -9,20 +9,32 @@ This is breakout board for [Silicon Labs Si7051](http://www.silabs.com/products/
 [![](https://github.com/closedcube/ClosedCube_Si7051_Arduino/blob/master/images/B001_SI7051_Pic2.jpg)](https://www.tindie.com/stores/closedcube/)
 
 ----------
+
 ### Where to Buy?
 
-[![](http://images.closedcube.uk/logo/github/amazon.png)](https://www.tindie.com/stores/closedcube/)
+[![](http://images.closedcube.uk/logo/github/amazon.png)](https://www.amazon.co.uk/dp/B01MY4BG6H)
 
-- [Amazon UK](https://www.amazon.co.uk/dp/B01MY4BG6H) 
-- [Amazon DE](https://www.amazon.de/dp/B01MY4BG6H)
-- [Amazon FR](https://www.amazon.fr/dp/B01MY4BG6H)
-- [Amazon IT](https://www.amazon.it/dp/B01MY4BG6H)
-- [Amazon ES](https://www.amazon.es/dp/B01MY4BG6H)
+| Region  | Link |
+| ------------- | ------------- |
+| UK | https://www.amazon.co.uk/dp/B01MY4BG6H |
+| Germany (DE) | https://www.amazon.de/dp/B01MY4BG6H |
+| France (FR) | https://www.amazon.fr/dp/B01MY4BG6H |
+| Italy (IT) | https://www.amazon.it/dp/B01MY4BG6H |
+| Spain (ES) | https://www.amazon.es/dp/B01MY4BG6H |
+| USA | TBD |
+| Canada | TBD |
+| Mexico | TBD |
 
-[![](http://images.closedcube.uk/logo/github/ebay.gif)](http://www.ebay.co.uk/itm/182145992027)(UK Store)
+
+[![](http://images.closedcube.uk/logo/github/ebay.gif)](http://www.ebay.co.uk/itm/182877251201)
+
+| Region  | Link |
+| ------------- | ------------- |
+| Europe,Asia,Oceania | https://www.ebay.co.uk/itm/182145992027  |
+| USA  | TBD |
+
 
 [![](http://images.closedcube.uk/logo/github/tindie.png)](https://www.tindie.com/stores/closedcube/)
 
-
-
+https://www.tindie.com/products/7401/
 
