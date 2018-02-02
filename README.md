@@ -16,14 +16,14 @@ This is breakout board for [Silicon Labs Si7051](http://www.silabs.com/products/
 
 | Region  | Link |
 | ------------- | ------------- |
-| UK | https://www.amazon.co.uk/dp/B01MY4BG6H |
+| Canada | TBD |
 | Germany (DE) | https://www.amazon.de/dp/B01MY4BG6H |
 | France (FR) | https://www.amazon.fr/dp/B01MY4BG6H |
 | Italy (IT) | https://www.amazon.it/dp/B01MY4BG6H |
-| Spain (ES) | https://www.amazon.es/dp/B01MY4BG6H |
-| USA | TBD |
-| Canada | TBD |
 | Mexico | TBD |
+| Spain (ES) | https://www.amazon.es/dp/B01MY4BG6H |
+| USA | https://www.amazon.com/dp/B079JZFZ6K |
+| UK | https://www.amazon.co.uk/dp/B01MY4BG6H |
 
 
 [![](http://images.closedcube.uk/logo/github/ebay.gif)](http://www.ebay.co.uk/itm/182877251201)
