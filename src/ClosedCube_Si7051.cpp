@@ -42,7 +42,7 @@ void ClosedCube_Si7051::begin(uint8_t address) {
 
 	Wire.beginTransmission(_address);
 	Wire.write(0xE6);
-	Wire.write(0x0);
+	Wire.write(byte(0));
 	Wire.endTransmission();
 }
 
