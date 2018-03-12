@@ -34,11 +34,28 @@ THE SOFTWARE.
 #define _CLOSEDCUBE_SI7051_h
 #include <Arduino.h>
 
+typedef union {
+	uint8_t rawData;
+	struct {
+		uint8_t resolution0 : 1;
+		uint8_t reserve1 : 4;
+		uint8_t vdds : 1; // vdds = 1 if and only if VDD between 1.8V and 1.9V
+		uint8_t reserved2 : 1;
+		uint8_t resolution7 : 1;
+	};
+} SI7051_Register;
+
+
 class ClosedCube_Si7051 {
 public:
 	ClosedCube_Si7051();
 
 	void begin(uint8_t address);
+	void setResolution(uint8_t resolution);
+
+	void reset();
+
+	uint8_t readFirmwareVersion();
 
 	float readTemperature();
 	float readT(); // short-cut for readTemperature

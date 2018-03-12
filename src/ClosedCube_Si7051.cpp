@@ -40,11 +40,52 @@ void ClosedCube_Si7051::begin(uint8_t address) {
 	_address = address;
 	Wire.begin();
 
+	setResolution(14);
+}
+
+void ClosedCube_Si7051::reset()
+{
 	Wire.beginTransmission(_address);
-	Wire.write(0xE6);
-	Wire.write(0x0);
+	Wire.write(0xFE);
 	Wire.endTransmission();
 }
+
+uint8_t ClosedCube_Si7051::readFirmwareVersion()
+{
+	Wire.beginTransmission(_address);
+	Wire.write(0x84);
+	Wire.write(0xB8);
+	Wire.endTransmission();
+
+	Wire.requestFrom(_address, (uint8_t)1);
+
+	return Wire.read();
+}
+
+void ClosedCube_Si7051::setResolution(uint8_t resolution)
+{
+	SI7051_Register reg;
+
+	switch (resolution)
+	{
+		case 12:
+			reg.resolution0 = 1;
+			break;	
+		case 13:
+			reg.resolution7 = 1;
+			break;
+		case 11:
+			reg.resolution0 = 1;
+			reg.resolution7 = 1;
+			break;
+	}
+	
+	Wire.beginTransmission(_address);
+	Wire.write(0xE6);
+	Wire.write(reg.rawData);
+	Wire.endTransmission();
+}
+
 
 float ClosedCube_Si7051::readT() {
 	return readTemperature();
@@ -53,9 +94,6 @@ float ClosedCube_Si7051::readT() {
 float ClosedCube_Si7051::readTemperature() {
 	Wire.beginTransmission(_address);
 	Wire.write(0xF3);
-	Wire.write(_address);
-	Wire.write(_address);
-	Wire.write(_address);
 	Wire.endTransmission();
 
 	delay(10);
