@@ -31,7 +31,6 @@ This is breakout board for [Silicon Labs Si7051](http://www.silabs.com/products/
 | Germany (DE) | https://www.amazon.de/dp/B01MY4BG6H |  https://www.amazon.de/dp/B072KL58H1 |
 | France (FR) | https://www.amazon.fr/dp/B01MY4BG6H | https://www.amazon.fr/dp/B072KL58H1 |
 | Italy (IT) | https://www.amazon.it/dp/B01MY4BG6H | https://www.amazon.it/dp/B072KL58H1 |
-| Mexico | TBD | TDB |
 | Spain (ES) | https://www.amazon.es/dp/B01MY4BG6H | https://www.amazon.es/dp/B072KL58H1 |
 | UK | https://www.amazon.co.uk/dp/B01MY4BG6H | https://www.amazon.co.uk/dp/B072KL58H1 |
 | USA | https://www.amazon.com/dp/B079JZFZ6K | TBD |
