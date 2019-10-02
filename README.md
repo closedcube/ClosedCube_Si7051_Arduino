@@ -34,11 +34,11 @@ This is a ClosedCube breakout boards for Silicon Labs Si7051 +/-0.1C Digital Tem
 
 | Region  | 2 pcs | pre-soldered 2 pcs|
 | ------------- | ------------- | ------------- |
-| UK | https://www.amazon.co.uk/dp/B072KL58H1 | https://www.amazon.co.uk/dp/B072KL58H1 |
-| Germany (DE) | https://www.amazon.de/dp/B072KL58H1 | https://www.amazon.de/dp/B072KL58H1 |
-| France (FR) | https://www.amazon.fr/dp/B072KL58H1 | https://www.amazon.fr/dp/B072KL58H1 |
-| Italy (IT) | https://www.amazon.it/dp/B072KL58H1 | https://www.amazon.it/dp/B072KL58H1 |
-| Spain (ES) | https://www.amazon.es/dp/B072KL58H1 | https://www.amazon.es/dp/B072KL58H1 |
+| UK | https://www.amazon.co.uk/dp/B01MY4BG6H | https://www.amazon.co.uk/dp/B072KL58H1 |
+| Germany (DE) | https://www.amazon.de/dp/B01MY4BG6H | https://www.amazon.de/dp/B072KL58H1 |
+| France (FR) | https://www.amazon.fr/dp/B01MY4BG6H | https://www.amazon.fr/dp/B072KL58H1 |
+| Italy (IT) | https://www.amazon.it/dp/B01MY4BG6H | https://www.amazon.it/dp/B072KL58H1 |
+| Spain (ES) | https://www.amazon.es/dp/B01MY4BG6H | https://www.amazon.es/dp/B072KL58H1 |
 
 ![eBay Logo](https://images.closedcube.uk/logo/github/ebay.gif)
 
